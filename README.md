@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hi%2C+my+name+is+walid+)](https://git.io/typing-svg)
 
-I'm an AI engineer and a fan of films, shows, games, and the worlds they create.
-
-I like building practical AI systems
+I'm an AI engineer and a fan of films, shows, games, and the worlds they create
 
 ## connect
 
